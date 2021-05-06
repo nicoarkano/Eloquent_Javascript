@@ -4,7 +4,7 @@ let newArr = []; //newArray in 0
     newArr.push(arr.slice(i, i + size)); //i change to 2
     console.log(i + size)
   }
-  console.log(newArr)
+  console.log(newArr);
   return newArr;
 }
 
