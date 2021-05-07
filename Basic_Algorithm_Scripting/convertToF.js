@@ -4,4 +4,4 @@ function convertToF(celsius) {
 }
 
 convertToF(30);
-module.exports = convertToF();
+module.exports = convertToF;
