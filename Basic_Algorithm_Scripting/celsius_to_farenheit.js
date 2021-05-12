@@ -3,5 +3,6 @@ function convertToF(celsius) {
   return fahrenheit;
 }
 
-convertToF(30);
-module.exports = convertToF();
+let farenheit = convertToF(30);
+
+export default convertToF();
